@@ -2,11 +2,11 @@
 
 Developer, Designer making crafted, secure products from 🇮🇳
 
-Checkout [vaibhavshn.in](https://vaibhavshn.in) to see projects, blog posts and more.
+Checkout [my site](https://vaibhavshn.vercel.app) to see projects, blog posts and more.
 
 ## What I do
 
-- Currently SDE at Dyte
+- Currently Senior SDE at Dyte
 
 ## Connect with me
 
