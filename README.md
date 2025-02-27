@@ -2,7 +2,7 @@
 
 Developer, Designer making crafted, secure products from 🇮🇳
 
-Checkout [my site](https://vaibhavshn.vercel.app) to see projects, blog posts and more.
+Checkout [my site](https://vaibhavshn.in) to see projects, blog posts and more.
 
 ## What I do
 
@@ -10,6 +10,6 @@ Checkout [my site](https://vaibhavshn.vercel.app) to see projects, blog posts an
 
 ## Connect with me
 
-- [Twitter](https://twitter.com/vaibhavshn)
+- [X](https://x.com/vaibhavshn)
 - [LinkedIn](https://linkedin.com/in/vaibhavshn)
 
